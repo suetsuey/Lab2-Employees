@@ -1,0 +1,15 @@
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\Lab2Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\Lab2Employees.AssemblyInfoInputs.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\Lab2Employees.AssemblyInfo.cs
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\Lab2Employees.csproj.CoreCompileInputs.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\bin\Debug\net6.0\Lab2Employees.exe
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\bin\Debug\net6.0\employees.txt
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\bin\Debug\net6.0\Lab2Employees.deps.json
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\bin\Debug\net6.0\Lab2Employees.runtimeconfig.json
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\bin\Debug\net6.0\Lab2Employees.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\bin\Debug\net6.0\Lab2Employees.pdb
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\Lab2Employees.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\refint\Lab2Employees.dll
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\Lab2Employees.pdb
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\Lab2Employees.genruntimeconfig.cache
+C:\Users\kongs\OneDrive\SAIT\CPRG 211 Object Oriented Programming 2\Lab2\Lab2Employees\Lab2Employees\obj\Debug\net6.0\ref\Lab2Employees.dll
